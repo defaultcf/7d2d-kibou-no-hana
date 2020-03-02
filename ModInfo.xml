@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="kibou" />
+        <Description value="Stream kibou when player dead" />
+        <Author value="nicofun" />
+        <Version value="0.1.0" />
+    </ModInfo>
+</xml>

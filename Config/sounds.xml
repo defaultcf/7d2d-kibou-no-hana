@@ -1,0 +1,11 @@
+<configs>
+    <remove xpath="/Sounds/SoundDataNode[@name='player1death']/AudioClip" />
+    <append xpath="/Sounds/SoundDataNode[@name='player1death']">
+        <AudioClip ClipName="#@modfolder:Resources/MyMod.unity3d?freesia.mp3" />
+    </append>
+
+    <remove xpath="/Sounds/SoundDataNode[@name='player2death']/AudioClip" />
+    <append xpath="/Sounds/SoundDataNode[@name='player2death']">
+        <AudioClip ClipName="#@modfolder:Resources/MyMod.unity3d?freesia.mp3" />
+    </append>
+</configs>
